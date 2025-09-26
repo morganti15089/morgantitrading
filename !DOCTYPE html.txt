@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Morganti Trading LLC</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
+    background:#f4f4f4;
+    color:#333;
+    text-align:center;
+  }
+  header {
+    background:#004080;
+    color:white;
+    padding:60px 20px;
+  }
+  header img {
+    max-width:120px;
+    margin-bottom:20px;
+  }
+  header h1 {
+    margin:0;
+    font-size:2.2em;
+  }
+  header p {
+    margin:10px 0 0 0;
+    font-size:1.1em;
+  }
+  section {
+    background:white;
+    margin:40px auto;
+    padding:40px 20px;
+    max-width:600px;
+    border-radius:10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  section p {
+    margin:15px 0;
+    font-size:1em;
+  }
+  a {
+    color:#004080;
+    text-decoration:none;
+    font-weight:bold;
+  }
+  a:hover {
+    text-decoration:underline;
+  }
+  footer {
+    background:#004080;
+    color:white;
+    padding:20px;
+    font-size:0.9em;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <!-- Replace 'logo.png' with your actual logo file -->
+  <img src="logo.png" alt="Morganti Trading LLC Logo">
+  <h1>Morganti Trading LLC</h1>
+  <p>Global Trading Solutions Since 1995</p>
+</header>
+
+<section>
+  <p>📍 Al Quoz 3, Warehouse 10, Dubai, UAE</p>
+  <p>✉ <a href="mailto:mohamad@mrg.ae">mohamad@mrg.ae</a></p>
+  <p>📝 Trade License: 246256</p>
+  <p>💄 Specializing in Perfumes & Cosmetics</p>
+</section>
+
+<footer>
+  <p>© 2025 Morganti Trading LLC</p>
+</footer>
+
+</body>
+</html>
